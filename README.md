@@ -2,11 +2,11 @@
 
 ### Brief overview
 
-- [ ✔ ] Fetches data through https://covid19.mathdro.id/api.
-- [ ✔ ] Displays confirmed, recovered, and deaths number of each country.
+- [ ✔ ] Fetches COVID-19 data through https://covid19.mathdro.id/api.
+- [ ✔ ] Displays confirmed, recovered, and deaths number by country.
 - [ ✔ ] Bar charts show the tendency.
 
-#### Language and Tools
+### Language and Tools
 - JavaScript, React, node.js, Hooks, Material UI, Charts js
 
 ### App Walkthrough GIF
