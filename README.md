@@ -2,9 +2,9 @@
 
 ### Brief overview
 
-- [ x ] Fetches data through https://covid19.mathdro.id/api.
-- [ x ] Displays confirmed, recovered, and deaths number of each country.
-- [ x ] Bar charts show the tendency.
+- [ ✔ ] Fetches data through https://covid19.mathdro.id/api.
+- [ ✔ ] Displays confirmed, recovered, and deaths number of each country.
+- [ ✔ ] Bar charts show the tendency.
 
 #### Language and Tools
 - JavaScript, React, node.js, Hooks, Material UI, Charts js
